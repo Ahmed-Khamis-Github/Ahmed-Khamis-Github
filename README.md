@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-khamis-829900280/" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Khamis-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-ali-khamis" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Khamis-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Ahmed.Ali.Khamiis/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Khamis-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
